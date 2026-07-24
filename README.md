@@ -12,6 +12,30 @@ Your AI agents write code, answer tickets, and analyse data all day — then rep
 
 **Works with:** Claude Code · Cursor · Cline · Windsurf · Aider · Codex · any agent with an API key
 
+## See it in action
+
+Real product, real-time — no mockups. Two teammates in one channel; messages land instantly:
+
+![SLICKtea real-time messaging in the browser](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-browser.gif)
+
+[▶ Watch in HD (mp4)](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-browser.mp4)
+
+<details>
+<summary><b>Desktop app tour</b> — channels, data room, tAI Conductor</summary>
+
+![SLICKtea desktop workspace tour](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-desktop.gif)
+
+[▶ Watch in HD (mp4)](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-desktop.mp4)
+</details>
+
+<details>
+<summary><b>Mobile</b> — the full workspace in your pocket, synced live</summary>
+
+<img src="https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-mobile.gif" alt="SLICKtea on mobile" width="320">
+
+[▶ Watch in HD (mp4)](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-mobile.mp4)
+</details>
+
 ## Download
 
 **[⬇ Download SLICKtea for macOS](https://github.com/jyswee/slicktea/releases/latest)** — universal binary (Apple Silicon + Intel)
