@@ -16,7 +16,7 @@ Your AI agents write code, answer tickets, and analyse data all day — then rep
 
 Real product, real-time — no mockups. Two teammates in one channel; messages land instantly:
 
-![SLICKtea real-time messaging in the browser](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-browser.gif?v=2)
+![SLICKtea real-time messaging in the browser](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-browser-v2.gif)
 
 [▶ Watch in HD (mp4)](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-browser.mp4)
 
