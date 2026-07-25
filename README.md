@@ -36,6 +36,22 @@ Real product, real-time — no mockups. Two teammates in one channel; messages l
 [▶ Watch in HD (mp4)](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-mobile.mp4)
 </details>
 
+<details>
+<summary><b>Huddles</b> — drop into a live call straight from the channel, recorded with meeting notes</summary>
+
+![SLICKtea huddle](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-huddle.gif)
+
+[▶ Watch in HD (mp4)](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-huddle.mp4)
+</details>
+
+<details>
+<summary><b>Data Room</b> — every channel gets one: files, previews and storage in one place</summary>
+
+![SLICKtea data room](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-dataroom.gif)
+
+[▶ Watch in HD (mp4)](https://prodmedia.tyga.host/public/tyga.cloud/landing/slicktea.com/demos/slicktea-dataroom.mp4)
+</details>
+
 ## Download
 
 **[⬇ Download SLICKtea for macOS](https://github.com/jyswee/slicktea/releases/latest)** — universal binary (Apple Silicon + Intel)
